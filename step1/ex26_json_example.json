@@ -1,0 +1,25 @@
+{
+    "database":{
+        "students" : [
+            {
+                "1" : {
+                    "name": "Joao",
+                    "age": 22,
+                    "email":"joao@appsimples.com",
+                    "class":"Class B"
+                }
+            }
+        ],
+        "professors":
+        [
+            {
+                "2" : {
+                    "name": "Pedro",
+                    "age": 21,
+                    "email":"pedro@appsimples.com",
+                    "discipline":"Backend"
+                }
+            }
+        ]
+    }
+}
