@@ -1,0 +1,16 @@
+{
+  "name": "backend-for-dummies-examples",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.1.4"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "@types/node": "^10.12.1"
+  },
+  "scripts": {
+    "run-project": "tsc main.ts && node main.js"
+  }
+}
